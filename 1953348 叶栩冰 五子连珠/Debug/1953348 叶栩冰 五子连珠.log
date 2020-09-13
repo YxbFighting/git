@@ -1,0 +1,4 @@
+﻿  1953348 叶栩冰 五子连珠.cpp
+C:\Users\Z\Desktop\1953348 叶栩冰 五子连珠\1953348 叶栩冰 五子连珠\QIPAN.h(161,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Z\Desktop\1953348 叶栩冰 五子连珠\1953348 叶栩冰 五子连珠\QIPAN.h(178,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  1953348 叶栩冰 五子连珠.vcxproj -> C:\Users\Z\Desktop\1953348 叶栩冰 五子连珠\Debug\1953348 叶栩冰 五子连珠.exe
